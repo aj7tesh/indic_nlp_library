@@ -24,7 +24,7 @@
 
 import string, re, sys, codecs
 
-from indicnlp.common import IndicNlpException
+#from indicnlp.common import IndicNlpException
 
 ## detokenizer patterns 
 left_attach=r'!%)\]},.:;>?\u0964\u0965'

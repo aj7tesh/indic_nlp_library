@@ -24,7 +24,7 @@
 
 import string, re, sys, codecs
 
-from indicnlp.common import IndicNlpException
+#from indicnlp.common import IndicNlpException
 
 ### tokenizer patterns 
 triv_tokenizer_indic_pat=re.compile(r'(['+string.punctuation+r'\u0964\u0965'+r'])')

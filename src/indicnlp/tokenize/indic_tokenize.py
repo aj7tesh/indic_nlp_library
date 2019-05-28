@@ -20,6 +20,8 @@
 #Program for tokenizing Indian language input 
 #
 # @author Anoop Kunchukuttan 
+## python ~/indic_nlp_library/src/indicnlp/tokenize/indic_tokenize.py ~/test/apiInput.txt ~/test/apiInputTok.txt hi
+## python src/indicnlp/tokenize/indic_tokenize.py <infile> <outfile> <language>
 #
 
 import string, re, sys, codecs

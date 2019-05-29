@@ -1,0 +1,1 @@
+name = "indicNlp_anuvada"
